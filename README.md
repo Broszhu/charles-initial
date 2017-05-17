@@ -65,6 +65,22 @@ Charles 主要提供两种查看封包的视图，分别名为 “Structure” �
 
 
 
-参考：
+参考和更多：
+
+https://www.charlesproxy.com/documentation/
+
 http://blog.devtang.com/2015/11/14/charles-introduction/
 
+http://www.heyuan110.com/2015/08/15/Charles%E8%BE%85%E5%8A%A9%E8%B0%83%E8%AF%95%E6%8E%A5%E5%8F%A3/
+
+http://www.cnblogs.com/wonyun/p/5586746.html
+
+http://www.w2bc.com/article/224808
+
+http://www.jianshu.com/p/fdd7c681929c
+
+http://www.tuicool.com/articles/qYbqquB
+
+http://m.blog.csdn.net/article/details?id=52585077
+
+http://www.cnblogs.com/yuanjunliang/articles/5167927.html
